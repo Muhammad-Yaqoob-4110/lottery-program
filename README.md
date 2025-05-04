@@ -1,5 +1,5 @@
 ## lottery-program
-C++ Console based lottery program game.
+C++ Console based lottery program.
 
 ## Setup
 You must have a C++ setup. If you have the setup then just run `lottery_program.cpp` file through VScode.
